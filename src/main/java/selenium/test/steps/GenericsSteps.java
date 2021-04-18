@@ -13,10 +13,6 @@ public class GenericsSteps {
 
     @Então("validar a mensagem {string} esta sendo exibida")
     public void validar_a_mensagem_esta_sendo_exibida(String mensagem) throws InterruptedException {
-
-        //Thread.sleep(20000);
-
-
         Assert.assertTrue(base.verificaElementoPresenteTela(mensagem));
         base.tirarPrint();
     }
