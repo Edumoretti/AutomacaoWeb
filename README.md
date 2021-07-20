@@ -5,3 +5,6 @@ Modelo de automação de testes desenvolvido com Junit, Cucumber e Java com rela
 #
 
 Test automation model developed with Junit, Cucumber and Java with error reporting and success at the end of execution.
+
+
+#Java11/Java15 #Cucumber #Junit #Gherkin
